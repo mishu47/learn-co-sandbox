@@ -1,0 +1,8 @@
+
+hello = "hello world"
+puts hello
+
+sound= "squeak"
+sound2 =sound.upcase 
+puts sound
+puts sound2
